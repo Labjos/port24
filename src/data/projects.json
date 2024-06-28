@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "title": "MundoSur Ambiental",
+    "description": "Ingenieria Medioambiental con base en Argentina que opera en LatinoAmérica.",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1717704560/portfolio/project-Mundosur_nzbuyh.png",
+    "type": "Publish",
+    "linkWeb":"https://mdsambiental.com/",
+    "linkGit": "https://github.com/Labjos/Mundo-Sur-Ambiental-",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "2",
+    "title": "Serpy SRL",
+    "description": "Empresa familiar dedicada a la distribución mayorista de articulos de limpieza.",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1717704561/portfolio/project-serpy_uab3fu.png",
+    "type": "Publish",
+    "linkWeb": "https://serpy.com.ar/",
+    "linkGit": "https://github.com/Labjos/serpy",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "3",
+    "title": "Viajes Glauka",
+    "description": "Agencia de Viajes y Turismo. Situada en Huesca capital. En Proceso",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1717704560/portfolio/project-glauka_wmnjhq.png",
+    "type": "Publish",
+    "linkWeb": "https://www.viajesamilyunlugar.com//",
+    "linkGit": "https://github.com/Labjos/viajesamilyunlugar",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "4",
+    "title": "portfolio 2024",
+    "description": "Resume Works & projetcs.",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1718621227/portfolio_c8dtgd.png",
+    "type": "Publish",
+    "linkWeb": "https://",
+    "linkGit": "https://github.com/Labjos/portfolio24",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "5",
+    "title": "Mendoza Natural",
+    "description": "Comercializadora de Bebidas",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1717704560/portfolio/project-vino_qztg9p.png",
+    "type": "sketch",
+    "linkWeb": "",
+    "linkGit": "https://github.com/Labjos/Landing-Vino-en-Persona",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "6",
+    "title": "Vino en Persona",
+    "description": "Promoción de Alimentos y bebidas para Comercializadora.",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1717704559/portfolio/project-coder_ga5muz.png",
+    "type": "sketch",
+    "linkWeb": "",
+    "linkGit": "https://github.com/Labjos/Dev-Replublic",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "7",
+    "title": "Wasqa Digital",
+    "description": "Proyecto de Agencia de Diseño WEB 2023",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1718200125/portfolio/wasqa_rhzweg.png",
+    "type": "Sketch",
+    "linkWeb": "",
+    "linkGit": "https://github.com/Labjos/wasqa",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "8",
+    "title": "Estima't Cuina't",
+    "description": "Web de Nutricion. En Proceso",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1718199608/portfolio/estimat_bns4wm.png",
+    "type": "Publish",
+    "linkWeb": "",
+    "linkGit": "https://github.com/Labjos/estimat",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "9",
+    "title": "20 años - viajes Carrefour Huesca",
+    "description": "Presentación para los 20 años de Viajes Glauka",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1718199472/portfolio/20ani-glauka_wy8kn4.png",
+    "type": "Publish",
+    "linkWeb": "",
+    "linkGit": "https://github.com/Labjos/20Aniversario",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "10",
+    "title": "Natalia B Coaching",
+    "description": "Web de Coaching personal. Natalia Bargas. En proceso",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1717704559/portfolio/project-integral-coaching_zyxeea.png",
+    "type": "Publish",
+    "linkWeb": "",
+    "linkGit": "https://github.com/Labjos/natbcoach",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "11",
+    "title": "Speakeasy",
+    "description": "Proyecto final de IRONHACK realizado con React JS.",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1718200772/portfolio/speakeasy_jx8vrf.png",
+    "type": "Publish",
+    "linkWeb": "",
+    "linkGit": "https://github.com/SPEAKEASY-PROJECT",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "12",
+    "title": "Url-Shortener",
+    "description": "Proyecto final Express y handlebars",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1718200701/portfolio/url-shotener_nic5sn.png",
+    "type": "Publish",
+    "linkWeb": "",
+    "linkGit": "https://github.com/Urless",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "13",
+    "title": "Fly-Swatter - Game",
+    "description": "Juego realizado con JS",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1718200682/portfolio/fly-swatter_omymj3.png",
+    "type": "Publish",
+    "linkWeb": "",
+    "linkGit": "https://github.com/Labjos/fly-swatter",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "14",
+    "title": "Need Social 1",
+    "description": "Agencia de Marketing Digital. En Proceso...",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1718201677/portfolio/ns1_z1ir2y.png",
+    "type": "Publish",
+    "linkWeb": "",
+    "linkGit": "https://github.com/Labjos/serpy",
+    "tags":["html", "css", "JS"]
+  },
+  {
+    "id": "15",
+    "title": "My Grain",
+    "description": "Mi primera web, HTML y CSS con un poco de PHP",
+    "image": "https://res.cloudinary.com/dmzanxy93/image/upload/v1717704560/portfolio/project-myGrain_t2hxqw.png",
+    "type": "school",
+    "linkWeb": "",
+    "linkGit": "",
+    "tags":["html", "css", "php"]
+  }
+]
